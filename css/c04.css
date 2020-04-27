@@ -4,7 +4,7 @@ body {
 	background-color: #523620;
 	color: #fff;
 	font-family: 'Wellfleet', times, serif;
-	font-size: 150%;
+	font-size: 90%;
 	margin: 0px 0px 0px 0px;}
 
 h1 {
@@ -16,6 +16,11 @@ h1 {
 	height: 109px;
 	width: 643px;
 	margin: 40px auto;}
+
+h2{
+	text-align: center;
+	margin: 0px 100px;
+}
 
 #teacher {
 	float:right;
@@ -48,5 +53,5 @@ h1 {
 	padding: 40px 20px;
 	margin: 0px auto;
 	height: 370px;
-	width: 600px;
+	width: 800px;
 	text-align: center;}
