@@ -1,7 +1,7 @@
-#LISTA DE COMMITS
+# LISTA DE COMMITS
 
-****************cambios del 24/04/20****************
-**********************************************
+**cambios del 24/04/20
+***
 
 JS y HTML
 1.- Agregar un icono a la página
@@ -9,7 +9,7 @@ JS y HTML
 
 
 ****************cambios del 26/04/20****************
-**********************************************
+***
 
 JS
 1.- validar incersion de números o cancelar el cálculo
