@@ -1,6 +1,6 @@
 # LISTA DE COMMITS
 
-**cambios del 24/04/20
+**cambios del 24/04/20**
 ***
 
 JS y HTML
@@ -8,7 +8,7 @@ JS y HTML
 2.- Creación de un archivo JS externo con la función para calcular tablas de multiplicar
 
 
-****************cambios del 26/04/20****************
+**cambios del 26/04/20**
 ***
 
 JS
