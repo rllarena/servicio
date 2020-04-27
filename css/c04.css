@@ -47,6 +47,24 @@ h1 {
 	border-radius: 20px;
 	padding: 40px 20px;
 	margin: 0px auto;
-	height: 370px;
+	height: 411px;
 	width: 600px;
 	text-align: center;}
+
+button{
+	margin-top: 10px;
+	font-family: 'Wellfleet', times, serif;
+	font-size: 20px;
+	color: #fff;
+	background-color: #425a5a;
+	border: 5px solid #523620;
+	border-radius: 5px;}
+
+button:hover{
+	cursor: pointer;
+	background-color: #523620;}
+
+button:active{
+	background-color: #425a5a;
+	border: none;
+	color: #425a5a;}
